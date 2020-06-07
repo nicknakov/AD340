@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">AD 340</string>
+    <string name="app_name">AD 340 Weather</string>
+    <string name="forecast_details">Forecast Details</string>
     <string name="zipcode_entry_error">Please enter valid zip code!</string>
 
     <string name="forecast_clicked_format">Forecast: %1$.2f %2$s</string>
